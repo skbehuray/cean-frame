@@ -1,3 +1,6 @@
+USE cean;
+
+
 INSERT INTO employee (empid, firstname, lastname, department)
 VALUES (1,
         'fred',
